@@ -1,0 +1,7 @@
+{
+    "board": "espressif:esp32:d32",
+    "configuration": "PartitionScheme=default,FlashFreq=80,UploadSpeed=921600,DebugLevel=info",
+    "port": "COM14",
+    "output": "./build",
+    "sketch": "TTGO-RGB-BLE.ino"
+}
